@@ -50,13 +50,13 @@ export const skills = [
   {
     id: 8,
     technology: 'java',
-    skill: 25,
+    skill: 20,
     color: 'lightblue',
   },
   {
     id: 9,
-    technology: 'c#',
-    skill: 15,
+    technology: 'c++',
+    skill: 10,
     color: 'purple',
   },
 ]
